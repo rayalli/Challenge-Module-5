@@ -1,4 +1,4 @@
-# Challenge-Module-5 
+# Challenge-Module-6 
 Analysis of World Weather Information using Jupyter Notebook & APIs
 Overview of Project:
 The purpose of this project was to build the the necessary coding script for app, which would allow the customers of "PlanMyTrip" to input their temperature preferences and receive a unique vacation search with the respective Itinerary-- the application is built using Jupyter Notebook and data from OpenWeatherApp and Gmaps respectice APIs.
